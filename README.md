@@ -1,5 +1,5 @@
 # Annealing
-Testing D-Wave's quantum annealer
+Testing the features of D-Wave's quantum annealer, and compatibility with recent works like the [Quantum Boltzman Machine](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.021050). 
 
 
 # Connection issues
